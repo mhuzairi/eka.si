@@ -1,0 +1,1 @@
+import{e,j as t,r}from"./label-CJMez355.js";import{L as n}from"./LoginPage-ClMx7u-s.js";const a=()=>{const o=()=>{localStorage.setItem("eka-admin-auth","true"),window.location.href="/hyper.html"};return t.jsx(n,{onLogin:o})};e.createRoot(document.getElementById("root")).render(t.jsx(r.StrictMode,{children:t.jsx(a,{})}));
